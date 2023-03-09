@@ -106,7 +106,7 @@ while (True):
                     break
 
                 else:
-                    print("Loading Card Return...")
+                    printf("Loading Card Return...")
                     t.sleep(1.5)
 
                     print("Returning your ATM Card")
