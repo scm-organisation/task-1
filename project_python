@@ -1,5 +1,5 @@
-import time as t
-user_pin = int(input("enter user pin:"))
+import time as t;
+user_pin = int(input("enter user pin:"));
 user_balance = int(input("enter balance:"))
 user_name = input("enter name:")
 
